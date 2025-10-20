@@ -1,0 +1,12 @@
+com\example\taskrunner\repository\UserRepository.class
+com\example\taskrunner\security\SecurityConfig.class
+com\example\taskrunner\service\TaskService.class
+com\example\taskrunner\service\UserService.class
+com\example\taskrunner\TaskRunnerApplication.class
+com\example\taskrunner\security\JwtAuthenticationFilter.class
+com\example\taskrunner\controller\TaskController.class
+com\example\taskrunner\security\JwtService.class
+com\example\taskrunner\model\TaskExecution.class
+com\example\taskrunner\model\User.class
+com\example\taskrunner\model\Task.class
+com\example\taskrunner\repository\TaskRepository.class
